@@ -201,12 +201,10 @@ Try to think and impersonate that ‘Persona’, which is basically one archetyp
 
 ### Synthesis
 
-This is the time and place to make sense of it all. Write in a few bullets points what are possible insights you might have gained. Go back to your Hypothesis - could you say that it is still true? Or perhaps by going through the RLS, you may find out some surprising facts…
+This is the time and place to make sense of it all and write down the insights that you have gained.
+1. What did the user **like**?
+2. What did the user **dislike**?
+3. What new questions do we have?
+4. What new ideas do we have?
 
-“From the interviews, I came across a few interesting findings….”
-
--  
--  
--  
--  
--  
+Go back to your Hypothesis - could you say that it is still true?
