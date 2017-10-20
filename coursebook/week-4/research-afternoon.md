@@ -34,6 +34,7 @@ One of the best things about Node is the ease with which you can incorporate oth
 
 - *Working with URLs (the `url` and `querystring` modules)*: What is a `urlObject` and how is it structured? Why is it important to be able to turn JavaScript objects into querystrings and back again? Why is it a bad idea to build a query string manually from other strings (think about URL encoding and escape characters)?
 
+**make a small Project about the topic**
 
 ### Topic 3: Packaging
 
@@ -51,4 +52,4 @@ One of the best things about Node is the ease with which you can incorporate oth
 
 - *Cloud platforms*: What is PaaS? Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally? What services are there that can provide you with a platform for your code? [Heroku](http://www.heroku.com) is a good start, but try to find some others like [Google CloudPlatform](https://cloud.google.com/solutions/websites/)  If you have time, try to deploy a simple server to Google CloudPlatform as a demo.
 
-- *Environment variables*: Why might some variables in your code need to change for different environments? Why is it a bad idea to include those variables in a public repository? What modules might you use to help manage environment variables? (Look at [env2](https://github.com/dwyl/env2) from our neighbours at DWYL.) If you can, write some sample code to show how it works.
+- *Environment variables*: Why might some variables in your code need to change for different environments? Why is it a bad idea to include those variables in a public repository? What modules might you use to help manage environment variables? (Look at [env2](https://github.com/dwyl/env2) from our neighbors at DWYL.) If you can, write some sample code to show how it works.
