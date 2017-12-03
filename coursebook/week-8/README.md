@@ -22,29 +22,20 @@ Schedule
 10:00-11:00 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
-11:00-12:45 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
-
-12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw
-teams.
+11:00-13:00 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
 
 --LUNCH--
-- 14:00 - 14:45
--- Whiteboard Walkthrough + [Introduce Project](./project.md)
+- 14:00 - 14:30
+-- [Introduce Project](./project.md) and assign teams
 
-- 14:45 - 15:00
--- Intro to research topics for research afternoon
-
-- 15.00 - 17:00
--- [Research Afternoon](./research-afternoon.md)
-
-- 17.00 - 18:00
--- Review and Present research topics
+- 14:30 - 18:00
+-- Project planning and technical spikes
 
 ### Day 3:
 
 10:00-11:00 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
 
-11:00-13:00 - Project Planning
+11:00-13:00 - Group Project
 
 --LUNCH--
 
