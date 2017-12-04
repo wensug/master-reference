@@ -29,7 +29,7 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 -- [Introduce Project](./project.md) and assign teams
 
 - 14:30 - 18:00
--- Project planning and technical spikes
+-- Project planning and technical spikes, see [project introduction](https://github.com/foundersandcoders/master-reference/blob/update-wk8/coursebook/week-8/project.md)
 
 ### Day 3:
 

@@ -8,7 +8,7 @@ Build a server-rendered full-stack app
 - Use a PostgreSQL database to store and retrieve your data.
 - Use the retrieved data to populate a Handlebars template for _server-side_ rendering to be displayed on the front-end.
 
-And either:
+And conduct a technical spike (see below) in order to either:
   - Use promises throughout your application
 
 Or:
@@ -26,7 +26,7 @@ Previous cohorts have built apps where users can share, for example, blog posts,
 - Use Heroku or a similar service to host the app and the database.
 - Try to include ES6 syntax on the server.
 
-### Tips
+### Technical Spikes
 
 **Promises**:
   - In order to get promises back from queries to your PostgresSQL database, you might consider using the [pg-promise](https://www.npmjs.com/package/pg-promise) module.
