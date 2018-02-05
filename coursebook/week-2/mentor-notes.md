@@ -16,6 +16,6 @@
 
 - What is an asynchronous callback?
 
-- How does the event loop let us  asynchronous things in JavaScript? 
+- How does the event loop let us do asynchronous things in JavaScript? 
 
 - What is Concurrency & Event Loop and what are their purposes?
