@@ -16,7 +16,7 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 1) We expect __back-end testing using tape__ (test as many components as you can) and basic __front-end testing__. Please note that we expect tests on _pure functions_ and _not_ on the router.
 
-2) Host your project on __heroku__, [see resource](https://hackmd.io/X3nL7fDwRRS3Yn8TIz5NVA).
+2) Host your project on __heroku__, [see offical docs](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) and  [helpful cheatsheet](https://hackmd.io/X3nL7fDwRRS3Yn8TIz5NVA).
 
 3) Use __module.exports__ and __require__ to break a single large server file into smaller modules.
 
