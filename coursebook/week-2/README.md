@@ -78,17 +78,15 @@ Projects
 
 ### Day 5
 
-- 10:00 - 11:00 <br>
-[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-review.md)
+- 10.00 - 11.00 <br /> Project code review
 
-- 11:00 - 13:00 <br>
-Respond to issues
+- 11.00 - 13.00 <br /> Respond to issues
 
-— LUNCH —
+-- LUNCHTIME 😋 --
 
-- 14:00-15:00 -Cohort Stop Go Continue (retrospective)
+- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-- 15:00-15:40 - Team retrospectives
+- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
 
 - 15:40-17:00 - Presentations (20 mins per group)
 
